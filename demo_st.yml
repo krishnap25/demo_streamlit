@@ -1,0 +1,13 @@
+name: demo_st
+
+channels:
+  - defaults
+
+dependencies:
+  - python=3.8
+  - pandas
+  - numpy
+  - matplotlib
+  - pip
+  - pip:
+      - streamlit
